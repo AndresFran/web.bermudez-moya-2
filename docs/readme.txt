@@ -1,8 +1,7 @@
-Thank you for using our template!
+Página modelo para Inmobiliaria de la Provincia de San Juan.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Segundo modelo, con colores y entorno más amigables.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Fácil navegación y responsivo.
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Buscador.
